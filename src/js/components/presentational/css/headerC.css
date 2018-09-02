@@ -1,0 +1,36 @@
+.test{
+    color: red;
+}
+
+/* 正式 */
+
+.item{
+    flex: none;
+    width: 90px;
+    letter-spacing: 25px;
+    margin-left: 30px;
+    border-right: 1px solid #3f3a3a;
+    text-align: center;
+    cursor: pointer;
+}
+
+.form{
+    display: block;
+    flex: auto;
+    cursor: pointer;
+    border-right: 0px solid #3f3a3a;
+}
+
+.search{
+    width: 130px;
+    margin-right: 20px;
+    padding: 8px 10px;
+    padding-right: 40px;
+    border: 1px solid #979797;
+    border-radius: 15px;
+    /* background-image: url("../src/js/components/images/search.png"); */
+    /* background-image: url("../../images/search.png"); */
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    background-position: 95% center;
+}
