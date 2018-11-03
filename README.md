@@ -1,5 +1,5 @@
 # webpack-react-tutorial
 
-工具：React、Webpack(npm、loader)、babel、styled-components、esLint
+tools：React、Webpack(npm、loader)、babel、styled-components、esLint
 <br/>
-實現：購物車頁面
+
